@@ -1,0 +1,3 @@
+#ignoring wands directory, managing that through the wands project
+Wands/*
+.DS_Store
