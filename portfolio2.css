@@ -1,0 +1,65 @@
+html {
+    height: 100%;
+  }
+
+body {
+    min-height: 100%;
+    background-color: rgb(195, 199, 199);
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+h1 {
+    padding: 125px;
+    background-image: url("Blackhole.jpg");
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+    line-height: 2em;
+    text-shadow: 3px 3px 5px rgb(0, 0, 0);
+}
+
+.intro {
+    padding: 20px;
+    margin: 0px;
+    background-color: rgb(219, 222, 223);
+    border-radius: 4px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: thin;
+    font-weight: 100;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    line-height: 1.5em;
+}
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: thin;
+    font-weight: 100;
+}
+
+.body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: thin;
+    font-weight: 100;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    line-height: 1.5em;
+}
+
+#bookcover {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#boatrace {
+    float: right;
+}
+
+h3 {
+    font-family: 'Josefin Sans', sans-serif;
+}
