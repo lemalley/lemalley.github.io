@@ -41,7 +41,7 @@ h2 {
     font-weight: 100;
 }
 
-.body {
+body {
     font-family: 'Josefin Sans', sans-serif;
     font-style: thin;
     font-weight: 100;
@@ -50,7 +50,7 @@ h2 {
     line-height: 1.5em;
 }
 
-#bookcover {
+.image {
     display: block;
     margin-left: auto;
     margin-right: auto;
