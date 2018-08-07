@@ -58,6 +58,14 @@ h2 {
 
 #boatrace {
     float: right;
+    border-radius: 5px;
+    box-shadow: 10px 21px 69px -30px rgba(107,106,107,1);
+
+}
+
+#mminvite {
+    border-radius: 5px;
+    box-shadow: 10px 21px 69px -30px rgba(107,106,107,1);
 }
 
 h3 {
